@@ -1,0 +1,30 @@
+title: Qiskit Fall Fest 2026 — Columbia University
+description: A global celebration of quantum computing at Columbia University
+url: "https://quantummeow.github.io/columbia-qiskit-fall-fest-2026"
+baseurl: "/columbia-qiskit-fall-fest-2026"
+lang: en
+
+# Jekyll settings
+theme: null
+layouts_dir: _layouts
+includes_dir: _includes
+assets_path: /assets
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Permalinks
+permalink: /:basename/
+
+# Collections
+collections_dir: _data
+
+# Excluded files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
