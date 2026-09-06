@@ -21,7 +21,7 @@ permalink: /
                 </div>
             </div>
             <div class="hero-image">
-                🎓
+                <img src="{{ '/assets/images/hero-poster.jpeg' | relative_url }}" alt="Qiskit Fall Fest 2026 at Columbia University">
             </div>
         </div>
     </div>
