@@ -281,7 +281,7 @@ section {
     justify-content: center;
     background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(45, 90, 140, 0.1) 100%);
     border-radius: 1rem;
-    min-height: 200px;
+    min-height: 300px;
     font-size: 2rem;
     text-align: center;
     color: var(--color-gray);
