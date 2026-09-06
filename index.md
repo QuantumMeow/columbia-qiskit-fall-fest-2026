@@ -16,7 +16,7 @@ permalink: /
                     Join us for guest speakers, workshops, student activities, and informal opportunities to connect with the quantum computing community — both on campus and beyond.
                 </div>
                 <div class="hero-buttons">
-                    <a href="#" class="btn btn-primary">Register</a>
+                    <a href="https://forms.gle/i2X2pgRdSTXbCV2F9" class="btn btn-primary">Register</a>
                     <a href="{{ '/events/' | relative_url }}" class="btn btn-secondary">View Events</a>
                 </div>
             </div>
