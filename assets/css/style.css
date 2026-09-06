@@ -287,6 +287,13 @@ section {
     color: var(--color-gray);
 }
 
+.hero-image img {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 /* Section Styles */
 .section-title {
     text-align: center;
