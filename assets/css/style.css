@@ -225,7 +225,7 @@ section {
     padding: var(--spacing-2xl) 0;
     display: flex;
     align-items: center;
-    min-height: 70vh;
+    min-height: 500px;
 }
 
 .hero-content {
@@ -282,7 +282,7 @@ section {
     background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(45, 90, 140, 0.1) 100%);
     border-radius: 1rem;
     min-height: 200px;
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: center;
     color: var(--color-gray);
 }
