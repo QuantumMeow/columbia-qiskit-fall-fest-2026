@@ -33,8 +33,6 @@ title: Team
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
 
-        <p>
-
            <div class="team-member">
                 <div class="member-photo">👤</div>
                 <h3>ROW TWO</h3>
