@@ -21,35 +21,35 @@ title: Team
 
             <div class="team-member">
                 <div class="member-photo">👤</div>
-                <h3>XXXXX XXXXX</h3>
+                <h3>Joselyn Pinto</h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
 
             <div class="team-member">
                 <div class="member-photo">👤</div>
-                <h3>XXXXX XXXXX</h3>
+                <h3>Juan Lopez</h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
 
            <div class="team-member">
                 <div class="member-photo">👤</div>
-                <h3>ROW TWO</h3>
+                <h3>Shubh Bansal</h3>
                 <p class="member-role">Lead Organizer</p>
                 <p class="member-bio">Founder of Quantum Meow and Next Realm AI, and student in School of Professionla Studies (SPS).</p>
             </div>
 
             <div class="team-member">
                 <div class="member-photo">👤</div>
-                <h3>ROW TWO</h3>
+                <h3>Ashish Dutt</h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
 
             <div class="team-member">
                 <div class="member-photo">👤</div>
-                <h3>ROW TWO</h3>
+                <h3>Harman Kaur</h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
