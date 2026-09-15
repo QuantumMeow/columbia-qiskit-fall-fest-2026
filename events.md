@@ -15,9 +15,9 @@ title: Events
             <div class="event-card">
                 <h3>Guest Speaker Series</h3>
                 <div class="event-meta">
-                    <span><strong>Date:</strong> XXXXX</span>
-                    <span><strong>Time:</strong> XXXXX</span>
-                    <span><strong>Location:</strong> XXXXX</span>
+                    <span><strong>Date:</strong> Thur. Nov 19, 2026 (tentative)</span>
+                    <span><strong>Time:</strong> 1-4 pm EST</span>
+                    <span><strong>Location:</strong> TBA</span>
                 </div>
                 <p class="event-description">
                     Join us for an inspiring talk from a leading researcher in quantum computing. Learn about cutting-edge developments and career opportunities in the field. XXXXX
@@ -28,9 +28,9 @@ title: Events
             <div class="event-card">
                 <h3>Quantum Computing Workshop</h3>
                 <div class="event-meta">
-                    <span><strong>Date:</strong> XXXXX</span>
-                    <span><strong>Time:</strong> XXXXX</span>
-                    <span><strong>Location:</strong> XXXXX</span>
+                    <span><strong>Date:</strong> Nov 2026</span>
+                    <span><strong>Time:</strong> TBA</span>
+                    <span><strong>Location:</strong> TBA</span>
                 </div>
                 <p class="event-description">
                     Hands-on workshop where you'll learn Qiskit fundamentals and build your first quantum circuits. Perfect for beginners! XXXXX
@@ -54,9 +54,9 @@ title: Events
             <div class="event-card">
                 <h3>Student Meetup</h3>
                 <div class="event-meta">
-                    <span><strong>Date:</strong> XXXXX</span>
-                    <span><strong>Time:</strong> XXXXX</span>
-                    <span><strong>Location:</strong> XXXXX</span>
+                    <span><strong>Date:</strong> Nov 2026</span>
+                    <span><strong>Time:</strong> TBA</span>
+                    <span><strong>Location:</strong> TBA</span>
                 </div>
                 <p class="event-description">
                     An informal gathering for students interested in quantum computing. Connect with peers, ask questions, and explore shared interests. XXXXX
@@ -67,9 +67,9 @@ title: Events
             <div class="event-card">
                 <h3>Networking Reception</h3>
                 <div class="event-meta">
-                    <span><strong>Date:</strong> XXXXX</span>
-                    <span><strong>Time:</strong> XXXXX</span>
-                    <span><strong>Location:</strong> XXXXX</span>
+                    <span><strong>Date:</strong> Thur. Nov 19, 2026</span>
+                    <span><strong>Time:</strong> 4-5 pm EST</span>
+                    <span><strong>Location:</strong> TBA</span>
                 </div>
                 <p class="event-description">
                     Connect with quantum computing researchers, educators, and industry professionals over refreshments and casual conversation. XXXXX
@@ -80,9 +80,9 @@ title: Events
             <div class="event-card">
                 <h3>Off-Campus Social</h3>
                 <div class="event-meta">
-                    <span><strong>Date:</strong> XXXXX</span>
-                    <span><strong>Time:</strong> XXXXX</span>
-                    <span><strong>Location:</strong> XXXXX</span>
+                    <span><strong>Date:</strong> Thur. Nov 19, 2026</span>
+                    <span><strong>Time:</strong> 5-7 PM EST</span>
+                    <span><strong>Location:</strong> TBA</span>
                 </div>
                 <p class="event-description">
                     Join the community for an off-campus social event. A casual way to meet others in the quantum computing community. XXXXX
