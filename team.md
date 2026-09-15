@@ -16,7 +16,7 @@ title: Team
                 <div class="member-photo">
                    <img src="../assets/images/tom_bustamante.jpeg" alt="Tom Bustamante">
                 </div>
-                <h3>Tom Bustamante</h3>
+                <h3><a href="https://www.linkedin.com/in/tombustamante/" target="_blank" rel="noopener noreferrer">Tom Bustamante</a></h3>
                 <p class="member-role">Lead Organizer</p>
                 <p class="member-bio">Founder of Quantum Meow and Next Realm AI, and student in School of Professionla Studies (SPS).</p>
             </div>
@@ -25,7 +25,7 @@ title: Team
                 <div class="member-photo">
                    <img src="../assets/images/joselyn_pinto.jpeg" alt="Joselyn Pinto">
             </div>
-                <h3>Joselyn Pinto</h3>
+                <h3><a href="https://www.linkedin.com/in/joselyn-pinto-136391114/" target="_blank" rel="noopener noreferrer">Joselyn Pinto</a></h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
@@ -34,7 +34,7 @@ title: Team
                 <div class="member-photo">
                    <img src="../assets/images/juan_lopez.jpeg" alt="Juan Lopez">
             </div>
-                <h3>Juan Lopez</h3>
+                <h3><a href="https://www.linkedin.com/in/juancalopc/" target="_blank" rel="noopener noreferrer">Juan Lopez</a></h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
@@ -43,8 +43,8 @@ title: Team
                 <div class="member-photo">
                    <img src="../assets/images/shubh_bansal.jpeg" alt="Shubh Bansal">
             </div>
-                <h3>Shubh Bansal</h3>
-                <p class="member-role">Lead Organizer</p>
+                <h3><a href="https://www.linkedin.com/in/proram/" target="_blank" rel="noopener noreferrer">Shubh Bansal</a></h3>
+                <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Founder of Quantum Meow and Next Realm AI, and student in School of Professionla Studies (SPS).</p>
             </div>
 
@@ -52,7 +52,7 @@ title: Team
                 <div class="member-photo">
                    <img src="../assets/images/ashish_dutt.jpeg" alt="Ashish Dutt">
             </div>
-                <h3>Ashish Dutt</h3>
+                <h3><a href="https://www.linkedin.com/in/ashish-dutt/" target="_blank" rel="noopener noreferrer">Ashish Dutt</a></h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
@@ -61,7 +61,7 @@ title: Team
                 <div class="member-photo">
                    <img src="../assets/images/harman_kaur.jpeg" alt="Harman Kaur">
             </div>
-                <h3>Harman Kaur</h3>
+                <h3><a href="https://www.linkedin.com/in/harman-kaur-2150b82b2/" target="_blank" rel="noopener noreferrer">Harman Kaur</a></h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
