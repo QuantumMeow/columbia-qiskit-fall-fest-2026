@@ -37,8 +37,8 @@ permalink: /
             <div class="event-card">
                 <h3>Guest Speaker Series</h3>
                 <div class="event-meta">
-                    <span><strong>Date:</strong> XXXXX</span>
-                    <span><strong>Location:</strong> XXXXX</span>
+                    <span><strong>Date:</strong> Thur. Nov 19, 2026</span>
+                    <span><strong>Location:</strong> TBA</span>
                 </div>
                 <p class="event-description">
                     Join us for an inspiring talk from a leading researcher in quantum computing. XXXXX
@@ -48,8 +48,8 @@ permalink: /
             <div class="event-card">
                 <h3>Quantum Computing Workshop</h3>
                 <div class="event-meta">
-                    <span><strong>Date:</strong> XXXXX</span>
-                    <span><strong>Location:</strong> XXXXX</span>
+                    <span><strong>Date:</strong> TBA</span>
+                    <span><strong>Location:</strong> TBA</span>
                 </div>
                 <p class="event-description">
                     Hands-on workshop where you'll learn Qiskit fundamentals and build your first quantum circuits. XXXXX
@@ -59,8 +59,8 @@ permalink: /
             <div class="event-card">
                 <h3>Hackathon</h3>
                 <div class="event-meta">
-                    <span><strong>Date:</strong> XXXXX</span>
-                    <span><strong>Location:</strong> XXXXX</span>
+                    <span><strong>Date:</strong> TBA</span>
+                    <span><strong>Location:</strong> TBA</span>
                 </div>
                 <p class="event-description">
                     Compete in teams to solve quantum computing challenges. All skill levels welcome. XXXXX
