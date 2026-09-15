@@ -18,7 +18,7 @@ title: Team
                 </div>
                 <h3><a href="https://www.linkedin.com/in/tombustamante/" target="_blank" rel="noopener noreferrer">Tom Bustamante</a></h3>
                 <p class="member-role">Lead Organizer</p>
-                <p class="member-bio">Founder of Quantum Meow and Next Realm AI, and student in School of Professionla Studies (SPS).</p>
+                <p class="member-bio">Founder at Next Realm AI | Artificial Intelligence | Venture Capital | Columbia University School of Professionl Studies (SPS).</p>
             </div>
 
             <div class="team-member">
@@ -27,7 +27,8 @@ title: Team
             </div>
                 <h3><a href="https://www.linkedin.com/in/joselyn-pinto-136391114/" target="_blank" rel="noopener noreferrer">Joselyn Pinto</a></h3>
                 <p class="member-role">Event Organizer</p>
-                <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
+                <p class="member-bio">Tech Leader | AI Strategist | Product & Marketing Leader
+M.S. in Technology Management, Columbia University (Dec 2026)</p>
             </div>
 
             <div class="team-member">
@@ -36,7 +37,7 @@ title: Team
             </div>
                 <h3><a href="https://www.linkedin.com/in/juancalopc/" target="_blank" rel="noopener noreferrer">Juan Lopez</a></h3>
                 <p class="member-role">Event Organizer</p>
-                <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
+                <p class="member-bio">MSc Computer Science @ Columbia University | BSc in Computer Science</p>
             </div>
 
            <div class="team-member">
@@ -45,7 +46,7 @@ title: Team
             </div>
                 <h3><a href="https://www.linkedin.com/in/proram/" target="_blank" rel="noopener noreferrer">Shubh Bansal</a></h3>
                 <p class="member-role">Event Organizer</p>
-                <p class="member-bio">Founder of Quantum Meow and Next Realm AI, and student in School of Professionla Studies (SPS).</p>
+                <p class="member-bio">MSc Computer Science @ Columbia University | BSc in Computer Science</p>
             </div>
 
             <div class="team-member">
@@ -54,7 +55,7 @@ title: Team
             </div>
                 <h3><a href="https://www.linkedin.com/in/ashish-dutt/" target="_blank" rel="noopener noreferrer">Ashish Dutt</a></h3>
                 <p class="member-role">Event Organizer</p>
-                <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
+                <p class="member-bio">Product Management | Product Strategy | AI and Digital Transformation | Technology Management @Columbia University | Everest Base Camp Trekker (5,364m)</p>
             </div>
 
             <div class="team-member">
@@ -63,7 +64,7 @@ title: Team
             </div>
                 <h3><a href="https://www.linkedin.com/in/harman-kaur-2150b82b2/" target="_blank" rel="noopener noreferrer">Harman Kaur</a></h3>
                 <p class="member-role">Event Organizer</p>
-                <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
+                <p class="member-bio">Computer Science Graduate Student at University of Connecticut | Clinical Application Specialist at UConn Health | Quantum Computing Researcher</p>
             </div>
         </div>
 
