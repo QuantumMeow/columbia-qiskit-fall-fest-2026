@@ -14,7 +14,7 @@ title: Team
         <div class="team-grid">
             <div class="team-member">
                 <div class="member-photo">
-                   <img src="/assets/images/tom_bustamante.jpeg" alt="Tom Bustamante">
+                   <img src="../assets/images/tom_bustamante.jpeg" alt="Tom Bustamante">
                 </div>
                 <h3>Tom Bustamante</h3>
                 <p class="member-role">Lead Organizer</p>
