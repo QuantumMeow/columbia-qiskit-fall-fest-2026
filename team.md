@@ -22,35 +22,45 @@ title: Team
             </div>
 
             <div class="team-member">
-                <div class="member-photo">👤</div>
+                <div class="member-photo">
+                   <img src="../assets/images/joselyn_pinto.jpeg" alt="Joselyn Pinto">
+            </div>
                 <h3>Joselyn Pinto</h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
 
             <div class="team-member">
-                <div class="member-photo">👤</div>
+                <div class="member-photo">
+                   <img src="../assets/images/juan_lopez.jpeg" alt="Juan Lopez">
+            </div>
                 <h3>Juan Lopez</h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
 
            <div class="team-member">
-                <div class="member-photo">👤</div>
+                <div class="member-photo">
+                   <img src="../assets/images/shubh_bansal.jpeg" alt="Shubh Bansal">
+            </div>
                 <h3>Shubh Bansal</h3>
                 <p class="member-role">Lead Organizer</p>
                 <p class="member-bio">Founder of Quantum Meow and Next Realm AI, and student in School of Professionla Studies (SPS).</p>
             </div>
 
             <div class="team-member">
-                <div class="member-photo">👤</div>
+                <div class="member-photo">
+                   <img src="../assets/images/ashish_dutt.jpeg" alt="Ashish Dutt">
+            </div>
                 <h3>Ashish Dutt</h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
             </div>
 
             <div class="team-member">
-                <div class="member-photo">👤</div>
+                <div class="member-photo">
+                   <img src="../assets/images/harman_kaur.jpeg" alt="Harman Kaur">
+            </div>
                 <h3>Harman Kaur</h3>
                 <p class="member-role">Event Organizer</p>
                 <p class="member-bio">Short biography goes here. Share your background, interests in quantum computing, and role in organizing Fall Fest.</p>
