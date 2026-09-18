@@ -22,7 +22,7 @@ title: Events
                 <p class="event-description">
                     Join us for an inspiring talk from a leading researcher in quantum computing. Learn about cutting-edge developments and career opportunities in the field. XXXXX
                 </p>
-                <a href="#" class="btn btn-primary">Register</a>
+                <a href="https://forms.gle/i2X2pgRdSTXbCV2F9" class="btn btn-primary">Register</a>
             </div>
 
             <div class="event-card">
@@ -35,7 +35,7 @@ title: Events
                 <p class="event-description">
                     Hands-on workshop where you'll learn Qiskit fundamentals and build your first quantum circuits. Perfect for beginners! XXXXX
                 </p>
-                <a href="#" class="btn btn-primary">Register</a>
+                <a href="https://forms.gle/i2X2pgRdSTXbCV2F9" class="btn btn-primary">Register</a>
             </div>
 
             <div class="event-card">
@@ -48,7 +48,7 @@ title: Events
                 <p class="event-description">
                     Compete in teams to solve quantum computing challenges. All skill levels welcome. Form a team or join one at the event. XXXXX
                 </p>
-                <a href="#" class="btn btn-primary">Register</a>
+                <a href="https://forms.gle/i2X2pgRdSTXbCV2F9" class="btn btn-primary">Register</a>
             </div>
 
             <div class="event-card">
@@ -61,7 +61,7 @@ title: Events
                 <p class="event-description">
                     An informal gathering for students interested in quantum computing. Connect with peers, ask questions, and explore shared interests. XXXXX
                 </p>
-                <a href="#" class="btn btn-primary">Register</a>
+                <a href="https://forms.gle/i2X2pgRdSTXbCV2F9" class="btn btn-primary">Register</a>
             </div>
 
             <div class="event-card">
@@ -74,7 +74,7 @@ title: Events
                 <p class="event-description">
                     Connect with quantum computing researchers, educators, and industry professionals over refreshments and casual conversation. XXXXX
                 </p>
-                <a href="#" class="btn btn-primary">Register</a>
+                <a href="https://forms.gle/i2X2pgRdSTXbCV2F9" class="btn btn-primary">Register</a>
             </div>
 
             <div class="event-card">
@@ -87,7 +87,7 @@ title: Events
                 <p class="event-description">
                     Join the community for an off-campus social event. A casual way to meet others in the quantum computing community. XXXXX
                 </p>
-                <a href="#" class="btn btn-primary">Register</a>
+                <a href="https://forms.gle/i2X2pgRdSTXbCV2F9" class="btn btn-primary">Register</a>
             </div>
         </div>
     </div>
